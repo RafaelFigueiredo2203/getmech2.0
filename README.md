@@ -1,5 +1,5 @@
 <h1 align="center" >
-GetMech - PWA
+GetMech 
 </h1>
 
 
@@ -20,7 +20,7 @@ GetMech - PWA
   
   </h1>
 
- Acesse :  -https://getmechpwa-4xogmmffj-rafaelfigueiredo2203.vercel.app/
+ Acesse :  https://getmechpwa-kirejs1pf-rafaelfigueiredo2203.vercel.app/
 
 
 
@@ -36,9 +36,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-GetMech é meu Trabalho de Conclusão de Curso da FATEC de Ourinhos/SP.
-Este projeto tem o objetivo de auxiliar motoristas e oficinas mecânicas, motoristas em casos que precisem de serviços mecânicos e oficinas que estão buscando atrair mais clientes, simplificando os atendimentos com a plataforma!
-
+GetMech 2.0 , é uma tentativa minha e de meu amigo de faculdade Vinicius Quadrado de tentar levar esse projeto para o próximo nível , 
+pensando em implementá-lo no mercado , ajudando assim oficinas mecânicas a atrair mais clientes de forma online e rápida como também 
+clientes(Motoristas), podem encontrar essas oficinas na palma de suas mãos sem precisar se deslocar para encontrar uma oficina .
+Começamos do zero , refazendo o projeto para encontrar melhorias já pensando no futuro dele .
 
 ## 💻💅🏻 Figma do Projeto
 
